@@ -1,2 +1,0 @@
-# ZAFT
-Newbie Repo
